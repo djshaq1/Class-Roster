@@ -14,6 +14,7 @@ public void classRosterReport() {
 		ArrayList<String> someStrings = new ArrayList<String>();
 		
 		
+		
 		someStrings.add("Evan");
 		someStrings.add("Jarrett");
 		someStrings.add("Karen");
